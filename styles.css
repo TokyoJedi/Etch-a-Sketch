@@ -1,0 +1,97 @@
+/** {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 1em;
+}
+#parentDiv {
+  display: flex;
+  width: 100%;
+  /* margin: 10% auto; 
+  min-height: 572px;
+  max-height: 572px;
+  height: 100%;
+}
+div#divButton {
+  /* display: flex; 
+  /* flex-grow: 1; 
+  /* flex-shrink: 1; 
+  flex-basis: 50%;
+  /* aspect-ratio: 1/1; 
+  /* align-items: flex-end; 
+  /* flex-wrap: wrap; 
+  /* gap: 4px; 
+  /* margin: auto; 
+  /* justify-content: center; 
+  aspect-ratio: 1/1;
+}
+#button-for-prompt {
+  /* margin: auto 0 5px 0; 
+  /* flex-basis: 96px; 
+  /* flex-grow: 125px; 
+  /* height: max-content; 
+  /* aspect-ratio: 1/1; 
+}
+#container {
+  display: flex;
+  width: 100%;
+  flex-basis: 100%;
+  min-height: 572px;
+  max-height: 572px;
+  height: auto;
+  /* flex-grow: 1; 
+  /* flex-shrink: 1; 
+  flex-wrap: wrap;
+  flex-direction: row;
+  /* margin: 10% auto 0 auto; 
+  margin: 0;
+  /* justify-content:flex-start; 
+  /* align-items: flex-start; 
+  /* align-content: flex-start; 
+  aspect-ratio: 1 / 1;
+}
+.square {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
+  /* min-height: 30px; 
+  background: hotpink;
+  border: 1px solid;
+  /* margin: 0; 
+  /* padding: 0; 
+  height: auto;
+  width: 30px;
+  aspect-ratio: 1/1;
+  /* align-self: baseline; 
+}
+*/
+
+.square:hover {
+  background: black;
+  color: white;
+}
+
+
+body{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#container{
+  height: 800px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+}
+.row{
+  display: flex;
+  flex-grow: 1;
+  width: 800px;
+}
+
+.square{
+  border-style: solid;
+  border-width: 1px;
+  flex-grow: 1;
+  background: hotpink;
+}

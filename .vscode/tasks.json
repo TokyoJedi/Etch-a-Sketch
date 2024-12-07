@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "/home/eric/repos/Etch-a-Sketch",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
